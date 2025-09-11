@@ -4,8 +4,7 @@ A modern, responsive portfolio website built with React.js and Tailwind CSS, sho
 
 ## 🚀 Live Demo
 
-- **GitHub Pages**: [View Live Demo](https://jayeshafre.github.io/jayesh-portfolio/)
-- **Portfolio Website**: [jayeshafre.dev](https://jayeshafre.dev)
+- **Portfolio Website**: [jayeshafre.portfolio](https://jayeshafre-portfolio.vercel.app/)
 
 ## ✨ Features
 
